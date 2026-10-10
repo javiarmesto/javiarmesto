@@ -4,7 +4,7 @@
 
 Responsable de I+D e IA en VS Sistemas. Microsoft MVP y Microsoft Certified Trainer. Comparto herramientas, guías y materiales para llevar la IA a la práctica en el desarrollo y las aplicaciones de negocio.
 
-**[Explora mi cuaderno público de proyectos y sesiones](https://javier-armesto-bc-ai-hub.iamironman.chatgpt.site)** · [Colección en GitHub](https://github.com/javiarmesto/bc-ai-collection)
+**[Explora mi cuaderno público de proyectos y sesiones](https://javier-armesto-bc-ai-hub.vercel.app)** · [Colección en GitHub](https://github.com/javiarmesto/bc-ai-collection)
 
 ## ALDC · AL Agentic Engineering System
 
